@@ -1,0 +1,15 @@
+{
+  "gui.hbnssopmhm.auth.wait_title": "HiBerNET SSO 认证",
+  "gui.hbnssopmhm.auth.wait_subtitle": "正在认证%s",
+  "gui.hbnssopmhm.auth.success_title": "§a认证成功！",
+  "gui.hbnssopmhm.auth.success_subtitle": "您已通过身份验证",
+  "gui.hbnssopmhm.auth.countdown": "§c%s 秒§f后自动关闭",
+  "gui.hbnssopmhm.browser.title": "HiBerNET SSO 浏览器",
+  "gui.hbnssopmhm.browser.instruction": "请在内嵌浏览器中完成认证",
+  "gui.hbnssopmhm.browser.exit_server": "退出服务器",
+  "gui.hbnssopmhm.browser.confirm_title": "打开外部浏览器？",
+  "gui.hbnssopmhm.browser.confirm_prompt": "将在您的系统浏览器中打开以下网址",
+  "gui.hbnssopmhm.browser.confirm_open": "§a打开浏览器",
+  "gui.hbnssopmhm.browser.confirm_cancel": "§7取消",
+  "gui.hbnssopmhm.browser.close_overlay": "关闭覆盖层 (Esc)"
+}

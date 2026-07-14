@@ -1,0 +1,15 @@
+{
+  "gui.hbnssopmhm.auth.wait_title": "HiBerNET SSO Authentication",
+  "gui.hbnssopmhm.auth.wait_subtitle": "Authenticating%s",
+  "gui.hbnssopmhm.auth.success_title": "§aAuthentication Successful!",
+  "gui.hbnssopmhm.auth.success_subtitle": "You have been authenticated",
+  "gui.hbnssopmhm.auth.countdown": "Auto-closing in §c%s §fseconds",
+  "gui.hbnssopmhm.browser.title": "HiBerNET SSO Browser",
+  "gui.hbnssopmhm.browser.instruction": "Complete authentication in the embedded browser",
+  "gui.hbnssopmhm.browser.exit_server": "Exit Server",
+  "gui.hbnssopmhm.browser.confirm_title": "Open External Browser?",
+  "gui.hbnssopmhm.browser.confirm_prompt": "This will open a URL in your system browser",
+  "gui.hbnssopmhm.browser.confirm_open": "§aOpen Browser",
+  "gui.hbnssopmhm.browser.confirm_cancel": "§7Cancel",
+  "gui.hbnssopmhm.browser.close_overlay": "Close Overlay (Esc)"
+}
